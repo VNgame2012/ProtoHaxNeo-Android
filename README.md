@@ -8,6 +8,8 @@ ProtoHax-Android is the Android implementation of [ProtoHax](https://github.com/
 2. Seamless switching/adapting multiple versions
 3. Full control of the packet layer
 
+#Note that this project that NOT made by me, credit to SRYuYing369 for the sources
+
 ## Issues
 - If you notice any bugs or missing features in the Android-specific code, you can let us know by opening an issue [here](https://github.com/hax0r31337/ProtoHax-Android/issues).
 - If you're having issues with the cheat features themselves, please send the issue to the main repository [here](https://github.com/hax0r31337/ProtoHax/issues).
